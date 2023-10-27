@@ -142,21 +142,4 @@ public class BoulderDashView implements Observer{
         caveView.update();
         scoreView.update();
     }
-
-    public void reflect(Model model){
-        Stage stage = new Stage();
-        stage.setTitle("reflect");
-
-        VBox root = new VBox();
-
-        ReflectView reflectView = new ReflectView(model);
-
-        model.register(reflectView);
-
-        root.getChildren().addAll(reflectView);
-
-        Scene scene = new Scene(root);
-        stage.setScene(scene);
-        stage.show();
-    }
 }

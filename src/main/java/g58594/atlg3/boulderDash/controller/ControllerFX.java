@@ -46,10 +46,6 @@ public class ControllerFX {
         }
     }
 
-    public void reflect() {
-        view.reflect(model);
-    }
-
     public void giveUp() {
         view.showHome();
     }

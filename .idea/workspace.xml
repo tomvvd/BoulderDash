@@ -5,44 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0675ac9b-6ee6-4ac5-a939-13e9988d4271" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/controller/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/controller/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/AddCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/AddCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/AsciiPaint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/AsciiPaint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/ColorCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/ColorCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/ColoredShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/ColoredShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Command.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/CommandManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/CommandManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/DeleteCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/DeleteCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Drawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Drawing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Group.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/GroupCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/GroupCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Line.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/MoveCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/MoveCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/UngroupCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/model/UngroupCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/view/AsciiView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/classes/g58594/atlg3/ascii/view/AsciiView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/test-classes/g58594/atlg3/ascii/model/CircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/test-classes/g58594/atlg3/ascii/model/CircleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ascii-g58594/target/test-classes/g58594/atlg3/ascii/model/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ascii-g58594/target/test-classes/g58594/atlg3/ascii/model/RectangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bmr-g58594/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bmr-g58594/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/console/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/console/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/console/view/ConsoleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ConsoleView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/javafx/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/javafx/CaveView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/CaveView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/javafx/OptionView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/javafx/ReflectView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ReflectView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/javafx/ScoreView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ScoreView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ControllerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ControllerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/KeyPressHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/KeyPressHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ReflectView.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

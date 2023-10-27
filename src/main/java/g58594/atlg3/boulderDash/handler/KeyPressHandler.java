@@ -27,8 +27,6 @@ public class KeyPressHandler implements EventHandler<KeyEvent> {
             case RIGHT:
                 controller.move(Direction.EAST);
                 break;
-            case N :
-                controller.reflect();
         }
     }
 }
