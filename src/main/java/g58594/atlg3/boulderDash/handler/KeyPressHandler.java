@@ -1,14 +1,14 @@
 package g58594.atlg3.boulderDash.handler;
 
-import g58594.atlg3.boulderDash.controller.ControllerFX;
+import g58594.atlg3.boulderDash.controller.Controller;
 import g58594.atlg3.boulderDash.model.Direction;
 import javafx.event.EventHandler;
 import javafx.scene.input.KeyEvent;
 
 public class KeyPressHandler implements EventHandler<KeyEvent> {
-    private ControllerFX controller;
+    private Controller controller;
 
-    public KeyPressHandler(ControllerFX controller) {
+    public KeyPressHandler(Controller controller) {
         this.controller = controller;
     }
 

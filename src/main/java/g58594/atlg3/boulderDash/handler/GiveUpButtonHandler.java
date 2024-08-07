@@ -1,13 +1,13 @@
 package g58594.atlg3.boulderDash.handler;
 
-import g58594.atlg3.boulderDash.controller.ControllerFX;
+import g58594.atlg3.boulderDash.controller.Controller;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 
 public class GiveUpButtonHandler implements EventHandler<ActionEvent> {
-    private ControllerFX controller;
+    private Controller controller;
 
-    public GiveUpButtonHandler(ControllerFX controller) {
+    public GiveUpButtonHandler(Controller controller) {
         this.controller = controller;
     }
 

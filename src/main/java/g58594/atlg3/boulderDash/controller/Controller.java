@@ -2,15 +2,15 @@ package g58594.atlg3.boulderDash.controller;
 
 import g58594.atlg3.boulderDash.model.Direction;
 import g58594.atlg3.boulderDash.model.Model;
-import g58594.atlg3.boulderDash.view.BoulderDashView;
+import g58594.atlg3.boulderDash.view.View;
 
 import java.io.IOException;
 
-public class ControllerFX {
+public class Controller {
     private Model model;
-    private BoulderDashView view;
+    private View view;
 
-    public ControllerFX(Model model, BoulderDashView view) {
+    public Controller(Model model, View view) {
         this.model = model;
         this.view = view;
         model.register(view);

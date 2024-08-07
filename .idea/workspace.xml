@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0675ac9b-6ee6-4ac5-a939-13e9988d4271" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ControllerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ControllerFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ConsoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/ControllerFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/GiveUpButtonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/GiveUpButtonHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/KeyPressHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/KeyPressHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ReflectView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/RedoButtonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/RedoButtonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/StartButtonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/StartButtonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/UndoButtonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/handler/UndoButtonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/BoulderDashView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g58594/atlg3/boulderDash/view/ConsoleView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/g58594/atlg3/boulderDash/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +58,7 @@
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/thoma/Documents/IntelliJProjects/atlg3/projets/boulderDash-g58594/src/main/java/g58594/atlg3/boulderDash&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoma/Documents/Informatique de gestion ESI/Q4/ATLG4/codes/miniprojets/StibRide&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoma/Documents/GitHub/StibProject/StibRide/pom.xml&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -150,7 +156,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="g58594.atlg3.boulderDash.Main" />
-      <module name="boulderDash-g58594" />
+      <module name="BoulderDash" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="g58594.atlg3.boulderDash.*" />
